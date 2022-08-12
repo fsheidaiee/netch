@@ -82,5 +82,5 @@ jobs:
       - name: Upload
         uses: actions/upload-artifact@v3
         with:
-          name: release.7z
-          path: release.7z
+          name: release
+          path: release
